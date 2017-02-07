@@ -1,0 +1,12 @@
+t 794109490f082f55e6feebafb4d08e0a7328b4af
+Author: Марк Величко <VelychkoMark@MacBook-Pro-Mark.local>
+Date:   Tue Feb 7 12:10:32 2017 +0300
+
+    added status.txt
+
+commit 0267b9c7baf781eeb572c451182cf695e9e47a0c
+Author: Марк Величко <VelychkoMark@MacBook-Pro-Mark.local>
+Date:   Tue Feb 7 12:04:24 2017 +0300
+
+    add .gitignore
+
